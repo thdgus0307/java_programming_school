@@ -1,3 +1,5 @@
+package hw;
+
 public class Homework6 {
     public static void main(String[] args) {
         OfflineCourse course1 = new OfflineCourse("HAEA9201", "Object Oriented Programming");
