@@ -29,3 +29,5 @@ public class Homework3 {
         System.out.println("최소값:"+min);
     }
 }
+
+

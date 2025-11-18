@@ -1,3 +1,5 @@
+package hw;
+
 class Computer {
     private String cpu;
     private String memory;
